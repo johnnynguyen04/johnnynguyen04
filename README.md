@@ -4,7 +4,7 @@ Hi, I'm Johnny! I'm a Data Science major at UCF. I build full data analysis pipe
 
 ## Tech
 
-Python · R · SQL · TypeScript · Next.js · React · Tailwind · Pandas · Scikit-learn
+Python · PyTorch · R · SQL · TypeScript · Next.js · React · Tailwind · Pandas · Scikit-learn · Streamlit
 
 ## Contact
 
